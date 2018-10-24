@@ -71,13 +71,15 @@ div {
 }
 
 .btn-subtle:hover {
-  background-color: #000;
+  background-color: #666;
 }
 
 .btn-ghost:hover {
-  background-color: #000;
+  background-color: #666;
+  color: #fff;
+  border: 3px solid #666;
 }
 
 .btn-warning:hover {
-  background-color: #000;
+  background-color: #933;
 }
